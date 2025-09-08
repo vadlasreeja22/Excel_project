@@ -1,6 +1,7 @@
 # Excel_project
 
 RETAIL SALES ANALYSIS DASHBOARD USING EXCEL
+
 This project involved the development of a dynamic sales analysis dashboard utilizing Microsoft Excel. The objective was to provide stakeholders with a clear, interactive platform for monitoring key business performance indicators, including total orders, total revenue, average delivery time, and average customer spend.
 
 ## 📌  Project Overview
